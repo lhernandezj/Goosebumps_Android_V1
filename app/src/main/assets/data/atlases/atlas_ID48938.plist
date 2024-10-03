@@ -33,7 +33,7 @@
 		<key>PTModelSprite_ID81220</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2800, 3742}, {696, 272}}</string>
+			<string>{{3110, 3742}, {696, 272}}</string>
 			<key>offset</key>
 			<string>{0.0, -0.0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>PTModelSprite_ID81238</key>
 		<dict>
 			<key>frame</key>
-			<string>{{2100, 3742}, {696, 272}}</string>
+			<string>{{2410, 3742}, {696, 272}}</string>
 			<key>offset</key>
 			<string>{0.0, -0.0}</string>
 			<key>rotated</key>
@@ -59,7 +59,7 @@
 		<key>PTModelSprite_ID81251</key>
 		<dict>
 			<key>frame</key>
-			<string>{{1400, 3742}, {696, 272}}</string>
+			<string>{{1710, 3742}, {696, 272}}</string>
 			<key>offset</key>
 			<string>{0.0, -0.0}</string>
 			<key>rotated</key>
@@ -72,7 +72,7 @@
 		<key>PTModelSprite_ID81424</key>
 		<dict>
 			<key>frame</key>
-			<string>{{700, 3742}, {696, 272}}</string>
+			<string>{{1010, 3742}, {696, 272}}</string>
 			<key>offset</key>
 			<string>{0.0, -0.0}</string>
 			<key>rotated</key>
@@ -85,7 +85,7 @@
 		<key>PTModelSprite_ID81442</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 3742}, {696, 272}}</string>
+			<string>{{310, 3742}, {696, 272}}</string>
 			<key>offset</key>
 			<string>{0.0, -0.0}</string>
 			<key>rotated</key>
@@ -111,7 +111,7 @@
 		<key>PTModelSprite_ID83473</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 4018}, {997, 40}}</string>
+			<string>{{0, 4038}, {997, 40}}</string>
 			<key>offset</key>
 			<string>{0.0, -0.0}</string>
 			<key>rotated</key>
@@ -133,6 +133,19 @@
 			<string>{{0, 1}, {282, 1359}}</string>
 			<key>sourceSize</key>
 			<string>{283, 1363}</string>
+		</dict>
+		<key>PTModelSprite_ID86629</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 3742}, {306, 292}}</string>
+			<key>offset</key>
+			<string>{0.0, -0.0}</string>
+			<key>rotated</key>
+			<string>false</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {306, 292}}</string>
+			<key>sourceSize</key>
+			<string>{306, 292}</string>
 		</dict>
 	</dict>
 	<key>metadata</key>
